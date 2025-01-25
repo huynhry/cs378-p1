@@ -8,14 +8,24 @@ body {
 }
 
 .menu-item {
-    margin: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 2%;
+    margin-right: 2%
 }
 
 .menu-image {
     height: auto;
     max-width: 100%;
+    border-radius: 20px;
 }
 
 .menu-name {
     font-weight: bold;
+}
+
+button {
+    border-radius: 12px;
+    text-align: center;
+    font-size: 16px;
 }
