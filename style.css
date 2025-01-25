@@ -11,11 +11,13 @@ body {
 .slogan {
     color: #523f99;
     font-family: cursive;
+    text-align: center;
 }
 
 .sponsorship {
     color: #e78d53;
     font-family: sans-serif;
+    text-align: center;
 }
 
 .menu-item {
