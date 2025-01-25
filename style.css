@@ -1,10 +1,21 @@
 body {
     background: black;
-    color: hotpink;
+    color: white;
+    font-family: system-ui;
 }
 
 .logo {
     max-width: 50px;
+}
+
+.slogan {
+    color: #523f99;
+    font-family: cursive;
+}
+
+.sponsorship {
+    color: #e78d53;
+    font-family: sans-serif;
 }
 
 .menu-item {
