@@ -1,6 +1,6 @@
 body {
     background: black;
-    color: white;
+    color: #ffffff;
     font-family: system-ui;
 }
 
@@ -39,4 +39,6 @@ button {
     border-radius: 12px;
     text-align: center;
     font-size: 16px;
+    background-color: #23282b;
+    color: #ffffff;
 }
