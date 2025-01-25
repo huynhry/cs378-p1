@@ -1,8 +1,17 @@
 body {
+    background: black;
     color: hotpink;
 }
 
+.menu-item {
+    margin: 5%;
+}
+
 .menu-image {
-    height: 100px;
-    width: 100px;
+    height: auto;
+    width: 100%;
+}
+
+.menu-name {
+    font-weight: bold;
 }
