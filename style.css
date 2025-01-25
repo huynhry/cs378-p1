@@ -3,7 +3,7 @@ body {
 }
 
 .menu-image {
-    object-fit: cover
+    object-fit: cover;
     height: 100px;
     width: 100px;
 }
